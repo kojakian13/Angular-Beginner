@@ -1,0 +1,19 @@
+#heading1 {
+	color:blue;
+background-color:red;
+font-size:32px;
+}
+
+.red_bg{
+background-color:blue;
+}
+
+#heading5 {
+	color:blue;
+background-color:orange !important;
+font-size:32px;
+}
+
+border:8px 
+solid:black;
+
